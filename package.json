@@ -36,11 +36,11 @@
     "@angular/common": ">=6.0.0"
   },
   "devDependencies": {
-    "@angular/common": "^6.1.0",
-    "@angular/compiler": "^6.1.0",
-    "@angular/compiler-cli": "^6.1.0",
-    "@angular/core": "^6.1.0",
-    "@angular/platform-browser": "^6.1.0",
+    "@angular/common": "^20.3.34",
+    "@angular/compiler": "^22.2.3",
+    "@angular/compiler-cli": "^22.2.3",
+    "@angular/core": "^22.2.3",
+    "@angular/platform-browser": "^22.2.3",
     "rimraf": "^2.6.2",
     "rxjs": "^6.2.2",
     "tslint": "^5.11.0",
